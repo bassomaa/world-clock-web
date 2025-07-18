@@ -24,7 +24,7 @@ function showDate(selection) {
               <div class="details">${formattedDate}</div>
             </div>
             <div class="time">${formattedTime} <span class="unit">${formattedDetail}</span></div>
-          </div> <a href="/" >All cities</a>
+          </div> <br /> <a href="/" >All cities</a>
   `;
 }
 function updateData(id, timezone) {
